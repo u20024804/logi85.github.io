@@ -21,7 +21,7 @@
 # *  https://anarchintosh-projects.googlecode.com/files/addons_xml_generator.py
  
 """ addons.xml generator """
- 
+
 import os
 import sys
  

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.logi85" name="Logi85 Addons" version="1.0.0" provider-name="logi85 and many others">
+	<extension point="xbmc.addon.repository" name="Logi85 Addons">
+		<info compressed="false">http://logi85.github.io/addons.xml</info>
+		<checksum>http://logi85.github.io/addons.xml.md5</checksum>
+		<datadir zip="true">http://logi85.github.io/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Logi85 Addons</summary>
+		<description>Logi85's Addon-Repository</description>
+		<disclaimer lang="en">Some parts of this addon may not be legal in your country of residence - please check with
+			your local laws before installing.
+		</disclaimer>
+		<disclaimer lang="de">Einige Teile dieses Addons sind möglicherweise in Ihrem Land nicht legal - bitte prüfen
+			Sie Ihre lokal gültigen Gesetze vor der Installation.
+		</disclaimer>
+		<language>en de</language>
+		<platform>all</platform>
+	</extension>
+</addon>
+

@@ -33,7 +33,7 @@
     </extension>
 </addon>
 
-<addon id="repository.logi85" name="Logi85 Addons" version="1.0.0" provider-name="logi85 and many others">
+<addon id="repository.logi85" name="Logi85 Addons" version="1.0" provider-name="logi85 and many others">
 	<extension point="xbmc.addon.repository" name="Logi85 Addons">
 		<info compressed="false">http://logi85.github.io/addons.xml</info>
 		<checksum>http://logi85.github.io/addons.xml.md5</checksum>
